@@ -1,1 +1,1 @@
-"""Bibliothèque de fonctions partagées"""
+"""Bibliothèque de fonction partagée"""
